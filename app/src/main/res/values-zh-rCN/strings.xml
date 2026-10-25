@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrameX</string>
+    
+    <!-- 权限与状态 -->
+    <string name="shizuku_service">Shizuku 服务</string>
+    <string name="shizuku_available">Shizuku 服务可用</string>
+    <string name="shizuku_unavailable">Shizuku 服务不可用</string>
+    <string name="shizuku_not_running">Shizuku 未运行，请先启动服务</string>
+    <string name="usage_access">使用情况访问权限</string>
+    <string name="overlay_permission">悬浮窗权限</string>
+    <string name="grant">授权</string>
+    <string name="granted">已授权</string>
+    <string name="required">需要授权</string>
+    
+    <!-- 悬浮窗与监控 -->
+    <string name="overlay">悬浮窗</string>
+    <string name="overlay_active">悬浮窗运行中</string>
+    <string name="overlay_inactive">悬浮窗已停止</string>
+    <string name="overlay_enabled">已开启悬浮窗</string>
+    <string name="overlay_disabled">已关闭悬浮窗</string>
+    <string name="real_time_monitor">实时性能监控</string>
+    <string name="performance_overlay">实时性能悬浮监控</string>
+    <string name="fps">帧率</string>
+    <string name="frame_rate">帧率</string>
+    <string name="temperature">温度</string>
+    <string name="cpu_usage">CPU 占用</string>
+    <string name="gpu_usage">GPU 占用</string>
+    <string name="battery">电池</string>
+    <string name="battery_temperature">电池温度</string>
+    <string name="thermal_diagnostics">温度诊断</string>
+    
+    <!-- 设置与日志 -->
+    <string name="settings">设置</string>
+    <string name="session_logs">会话日志</string>
+    <string name="system_settings">系统设置</string>
+    <string name="game_optimization">游戏优化</string>
+    <string name="privileged_game_optimization">特权游戏优化</string>
+    <string name="about">关于</string>
+    
+    <!-- 通用按钮 -->
+    <string name="start">启动</string>
+    <string name="stop">停止</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确认</string>
+    <string name="error">错误</string>
+    <string name="success">成功</string>
+    <string name="warning">警告</string>
+    <string name="loading">加载中...</string>
+    <string name="refresh">刷新</string>
+    <string name="apply">应用</string>
+</resources>
